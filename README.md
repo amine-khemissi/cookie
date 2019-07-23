@@ -6,7 +6,7 @@
 ## Install:
 
 ```
-make run
+make run (or sudo if docker is not permitted by default)
 ```
 
 ## Request:
