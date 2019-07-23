@@ -1,5 +1,10 @@
 # cookie
+## prerequesite
+  - docker installed
+  - make installed
 
+## Install:
+make run
 
 ## Request:
 ```
