@@ -4,7 +4,10 @@
   - make installed
 
 ## Install:
+
+```
 make run
+```
 
 ## Request:
 ```
