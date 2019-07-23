@@ -16,3 +16,9 @@ Content-Type: text/plain; charset=utf-8
 {"session":"82f34ca4-6c35-44a7-a033-73eff87e09ca","options":{"tata":"tutu","toto":"titi"}}
 ```
 
+
+## file 
+```
+cat /tmp/sessionToken-82f34ca4-6c35-44a7-a033-73eff87e09ca
+sessionToken=82f34ca4-6c35-44a7-a033-73eff87e09ca; toto=titi; tata=tutu
+```
